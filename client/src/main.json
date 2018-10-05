@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/schedule/main",
+    "pages/editInfo/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Tick课程表",
+    "navigationBarTextStyle": "black"
+  }
+}
